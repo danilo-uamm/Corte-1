@@ -19,7 +19,7 @@ namespace DaniloCorte1
         public RegistroEdadesDMES()
         {
             InitializeComponent();
-            registro = new Registro(); // Initialize registro
+            registro = new Registro(); // Initialize registrogit 
 
             // Agregar algunas ciudades de nicaragua al ComboBox
             comboBoxCiudad.Items.Add("Managua");
